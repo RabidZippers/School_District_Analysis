@@ -1,6 +1,6 @@
-#School_District_Analysis
+# School_District_Analysis
 
-##Overview of the school district analysis: 
+## Overview of the school district analysis: 
 
 The project of school district analysis analyzed how students are performing in math and reading, plus the size of the school budgets, and how the school performs at school and district levels. This analysis will assist the board and superintendent in decisions regarding the school budgets and priorities.
 
@@ -8,16 +8,16 @@ The project of school district analysis analyzed how students are performing in 
 The purpose of this project is to evaluate the math and reading grades for Thomas High School students. A key dataset utilized in evaluating the analysis, indicates that there is evidence of academic dishonesty, as the grades for ninth grade students appear to have been altered. A comparative analysis was completed to indicate whether replacing math and reading scores for Thomas High School ninth grade students with NaNs, will affect the outcome of the analysis.
 
 
-##Results:
+## Results:
 
-   * How is the district summary affected? *
+    How is the district summary affected?
 The district summary comparison shows that the main difference between the initial and updated analysis is that the average math score decreased by 0.1% and the percent of students who passed math decreased by 0.2%. The average reading score remained the same, but the percent of students who passed reading decreased by 0.3%. The overall percent of students who passed only varied by 0.1%.
 
     How is the school summary affected?
 The school summary shows that Thomas High School was the only school where scores were affected. There was a slight difference with the average math and reading scores, however the most significant changes in the data were with respect to the percentage of students who passed math and reading. The initial analysis shows that the percentage of Thomas Jefferson Students who passed math dropped from 93.272171% down to 66.911315% and the percentage who passed reading also dropped from 97.308869% to 69.663609%.
 
     How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the scores of math and reading for ninth graders' in Thomas High School, their performance ranking dropped from having the second place percentage of overall students passing (90.94801%) down to having the eighth place percentage of overall students passing (65.07645%), in the school district.
+ - Replacing the scores of math and reading for ninth graders' in Thomas High School, their performance ranking dropped from having the second place percentage of overall students passing (90.94801%) down to having the eighth place percentage of overall students passing (65.07645%), in the school district.
 
     How does replacing the ninth-grade scores affect the following:
  - Math and reading scores by grade: Ninth grade math and reading scores dropped, when the scores were replaced to reflect NaN in the dataset. 
